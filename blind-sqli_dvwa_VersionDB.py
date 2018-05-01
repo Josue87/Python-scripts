@@ -1,6 +1,6 @@
 import urllib.request
 ##
-# DVWA Blind SQLi to get BD Version
+# DVWA Blind SQLi to get DB Version
 # security >> medium
 ##
 def blind_sql(base, cookies, ok):
